@@ -15,3 +15,6 @@ Deliverables:
 2. Cloudflare + S3 integration steps
 3. Live website link with HTTPS
 4. Screenshot + deployment report
+
+Static website Link : 
+http://shraddha-photography-site.s3-website-us-east-1.amazonaws.com
